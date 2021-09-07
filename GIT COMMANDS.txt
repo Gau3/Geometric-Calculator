@@ -1,0 +1,2 @@
+GIT COMMANDS
+COMMANDDESCRIPTIONcd  Change directorycd ../..Change directory to the higher leveldirList all the directories in the current foldermkdirUsed to make a new directoryhistoryUsed to list all operations done on the terminal
